@@ -57,31 +57,8 @@ We envision a future where blockchain networks are not silos but interconnected 
 
 ## Contract Address Details
 
-Contract ID: ST7F05CT5RNQ6H8KQXS9AM901MTG8AAEPH7GSF8H
+Contract ID: ST7F05CT5RNQ6H8KQXS9AM901MTG8AAEPH7GSF8H.CrossChainBridgeDEX
 <img width="1877" height="839" alt="Screenshot 2025-08-26 111914" src="https://github.com/user-attachments/assets/bce6c52b-4a7c-41ff-a31f-049cd62d28ec" />
 
-
-### Mainnet Deployment
-- **Stacks Mainnet**: `[To be added]`
-- **Contract Name**: `crosschain-bridge-dex`
-- **Deployment Block**: `[To be added]`
-- **Deployer Address**: `[To be added]`
-
-### Testnet Deployment
-- **Stacks Testnet**: `[To be added]`
-- **Contract Name**: `crosschain-bridge-dex-testnet`
-- **Deployment Block**: `[To be added]`
-- **Deployer Address**: `[To be added]`
-
-### Bridge Contract Addresses
-- **Ethereum Bridge**: `[To be added]`
-- **Bitcoin Bridge**: `[To be added]`
-
-### Token Information
-- **Bridge Token Symbol**: BRIDGE
-- **Total Supply**: Dynamic (minted based on liquidity)
-- **Decimals**: 6
-
----
 
 *Built with ❤️ on Stacks blockchain. Contributing to a more connected and interoperable Web3 ecosystem.*
