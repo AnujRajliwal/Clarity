@@ -10,8 +10,8 @@ plan:
       transactions:
         - contract-publish:
             contract-name: CrossChainBridgeDEX
-            expected-sender: ST4Q04JR4CWXRFC14P5K708317GZ7T6YS4J290R3
-            cost: 7112148
+            expected-sender: ST7F05CT5RNQ6H8KQXS9AM901MTG8AAEPH7GSF8H
+            cost: 72460
             path: "contracts\\CrossChainBridgeDEX.clar"
             anchor-block-only: true
             clarity-version: 3
